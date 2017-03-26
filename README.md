@@ -1,14 +1,14 @@
-#Decision tree classifier and Confusion Matrix feature program#
+# Decision tree classifier and Confusion Matrix feature program#
 
-##Dependecies:
+## Dependecies:
 	numpy - sudo apt-get install python-numpy
 	scikit-learn - sudo pip install -U scikit-learn
 	** For more help on installation
 	   consult http://scikit-learn.org/stable/install.html **
 
-##TO RUN:
+## TO RUN:
 	./run.sh
-##Features:
+## Features:
 	Allows you to do the following:
 		*Load an existing tree created from the program;
 		 or learn a tree from a comma seperated file (.csv)
